@@ -23,3 +23,13 @@
   run this tool on our termux,kali linux,ubuntu etc.,and this
   locky.py is cloned from UltimateHackers,i modified this tool
   and pushed on github.
+1. $ apt update
+2. $ apt upgrade
+3. $ pkg install git
+4. $ pkg install python
+5. $ git clone https://github.com/Ji-bon/pass
+
+
+1. $ cd Pass
+2. $ chmod +x *
+3. $ python pass.py
